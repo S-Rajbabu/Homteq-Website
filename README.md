@@ -1,2 +1,2 @@
-# Homteq-Website
+## Homteq Web Application
 Home Tech E-Commerce Website
